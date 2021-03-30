@@ -1,0 +1,5 @@
+gTTS == 2.2.2
+beautifulsoup4  == 4.9.3
+pyTelegramBotAPI==3.6.1
+python-telegram-bot==7.0.1
+requests==2.13.0
